@@ -1,0 +1,10 @@
+{
+  "name": "restaurant-management-app",
+  "version": "1.0.0",
+  "description": "Full-stack Restaurant Management System (React + Vite + TailwindCSS + Node.js + MySQL)",
+  "scripts": {
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "start": "node backend/src/server.js"
+  }
+}
